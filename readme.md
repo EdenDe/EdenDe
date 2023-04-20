@@ -2,7 +2,7 @@
 
 
 <h1> Hello! I'm Eden</h1>
-<p> I want a full stack / frontend developer and currenctly looking for my first step in the industry </p>
+<p> I am a full stack / frontend developer and currenctly looking for my first step in the industry :) </p>
 
 <h2> Technical Skills</h2>
 <img src="https://skillicons.dev/icons?i=js,ts,css,html,sass,react,redux,vue,angular" alt="js,ts,css,html,sass,react,redux,vue,angular">
