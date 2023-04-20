@@ -12,4 +12,5 @@
 <h2> Connect with me </h2>
 <a href="https://www.linkedin.com/in/edenderhy"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Eden Derhy | LinkedIn" /></a>
 
-<a href="derhyeden@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Eden Derhy | Email"/></a>
+
+<a href="https://mail.google.com/mail/u/derhyeden@gmail.com/#compose"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Eden Derhy | Email"/></a>
