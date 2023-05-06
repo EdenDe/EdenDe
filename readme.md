@@ -1,7 +1,7 @@
 <img height="300" src="https://user-images.githubusercontent.com/93701509/233330963-dcedbe56-372c-4944-b5bf-23493720c482.png" alt="banner"/>
 
 
-<h1> Hello! I'm Eden</h1>
+<h1> Hello!👋 I'm Eden</h1>
 <p> I am a full stack / frontend developer and currently looking for my first step in the industry :) </p>
 
 <h2> Technical Skills</h2>
@@ -14,3 +14,4 @@
 
 
 <a href="mailto:derhyeden@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Eden Derhy | Email"/></a>
+
